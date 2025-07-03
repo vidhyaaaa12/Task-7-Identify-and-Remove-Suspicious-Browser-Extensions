@@ -6,7 +6,7 @@ To identify and remove any suspicious, unnecessary, or potentially harmful brows
 ##  Tools Used:
 - Web Browser: **Google Chrome**
 - Extension Manager: `chrome://extensions/`
-- 
+  
 ## Steps Followed
 
 ### **Step 1: Open Your Browser’s Extension/Add-ons Manager**
@@ -40,7 +40,7 @@ Removed the following:
 ### **Step 6: Restart Browser and Check for Performance Improvements**
 - Restarted Chrome after removing extensions.
 - Browser startup was faster and fewer background processes were running.
-
+- 
 ### **Step 7: Research How Malicious Extensions Can Harm Users**
 - Malicious extensions can:
   - Log keystrokes
